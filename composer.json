@@ -1,15 +1,15 @@
 {
-  "name": "luno/luno-php",
+  "name": "daimekashiya/luno-php",
   "version": "0.0.4",
   "type": "library",
-  "description": "PHP SDK for the Luno API",
+  "description": "PHP SDK for the Luno API. Updated with latest release from source Github Repository",
   "keywords": ["luno", "bitcoin", "ethereum"],
-  "homepage": "https://github.com/luno/luno-php",
+  "homepage": "https://github.com/daimekashiya/luno-php",
   "license": "MIT",
   "authors": [
     {
-      "name": "Neil Garb",
-      "email": "neil@luno.com"
+      "name": "daimekashiya",
+      "email": "ibn.ahamad@gmail.com"
     }
   ],
   "autoload": {
@@ -18,10 +18,10 @@
     }
   },
   "require": {
-    "guzzlehttp/guzzle": "^6.3.3",
-    "netresearch/jsonmapper": "^1.4"
+    "guzzlehttp/guzzle": "^7.0.1",
+    "netresearch/jsonmapper": "^4.0.0"
   },
   "require-dev": {
-    "phpunit/phpunit": "7.1.4"
+    "phpunit/phpunit": "^9.3.3"
   }
 }

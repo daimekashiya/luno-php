@@ -1,6 +1,6 @@
 {
   "name": "daimekashiya/luno-php",
-  "version": "0.0.11",
+  "version": "0.0.11.1.1",
   "type": "library",
   "description": "PHP SDK for the Luno API. Updated with latest release from source Github Repository since the official on Packagist only as at v0.0.4",
   "keywords": ["luno", "bitcoin", "ethereum"],

@@ -7,7 +7,7 @@ This PHP package provides a wrapper for the [Luno API](https://www.luno.com/api)
 ### Installation
 
 ```
-composer require "luno/luno-php"
+composer require daimekashiya/luno-php
 ```
 
 ### Authentication

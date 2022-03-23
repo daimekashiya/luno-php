@@ -2,7 +2,7 @@
 
 # Luno API [![Build Status](https://travis-ci.org/luno/luno-php.svg?branch=master)](https://travis-ci.org/luno/luno-php)
 
-This PHP package provides a wrapper for the [Luno API](https://www.luno.com/api).
+This PHP package provides a wrapper for the [Luno API](https://www.luno.com/api). Updated with latest release from source Github Repository since the official on Packagist only as at v0.0.4
 
 ### Installation
 
